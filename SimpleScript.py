@@ -24,7 +24,7 @@ def grabWords(filename):
     return words
 
 #Test the Word Grabber
-testwords = grabWords('/data/cat-descriptions_120396.txt')
+testwords = grabWords('/testdata/cat-descriptions_120396.txt')
 
 countWords(testwords)
 
