@@ -1,4 +1,4 @@
-# IpriceAssessment
+# Iprice Coding Assessment
 
 ## Assignment brief:
 As I understand the task; I am to create a simple script that can read and count the frequencies of each word that appears in a list or corpus.
